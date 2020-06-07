@@ -9,6 +9,8 @@ const Profile = () => {
   });
   console.log(myProfile);
 
+
+
   // will return array with getter and setter 
   // note: setting state will not merge here in useState 
   
